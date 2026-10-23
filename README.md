@@ -1,4 +1,3 @@
-
 <!-- SHRUTI DIXIT | PINK + LAVENDER DEVELOPER PROFILE -->
 
 <div align="center">
@@ -195,12 +194,6 @@ A real-time driver monitoring project designed to detect signs of drowsiness and
 
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=sshrrutiiii&hide_border=true&background=FFF7FB&ring=C084FC&fire=F472B6&currStreakLabel=9D5C91&sideLabels=663B78&dates=9D5C91" alt="GitHub contribution streak"/>
 
-<br/><br/>
-
-<a href="https://github.com/sshrrutiiii">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sshrrutiiii&bg_color=FFF7FB&color=663B78&line=C084FC&point=F472B6&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</a>
-
 </div>
 
 ---
@@ -231,20 +224,6 @@ A real-time driver monitoring project designed to detect signs of drowsiness and
 │                                      │
 ╰──────────────────────────────────────╯
 ```
-
-</div>
-
----
-
-<h2 align="center">୨୧ &nbsp; CONTRIBUTION ACTIVITY &nbsp; ୨୧</h2>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/C084FC/sshrrutiiii" alt="GitHub contribution calendar" width="100%"/>
-
-<br/>
-
-<sub>Every contribution is another step forward. ♡</sub>
 
 </div>
 
