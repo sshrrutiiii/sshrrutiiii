@@ -1,199 +1,256 @@
-<!--
-  SHRUTI DIXIT | Cyber-Pixel GitHub Profile
-  Replace only details you want to change.
--->
+
+<!-- ═══════════════ HEADER ═══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,50:E9D5FF,100:FDF2F8&height=160&section=header&text=SHRUTI.EXE&fontSize=48&fontColor=663B78&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=14&descAlignY=72&descColor=805A91" width="100%" alt="Shruti Dixit — Cyber Pixel Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,50:E9D5FF,100:FDF2F8&height=160&section=header&text=SHRUTI%20DIXIT&fontSize=48&fontColor=663B78&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=14&descAlignY=72&descColor=805A91" width="100%" alt="Shruti Dixit"/>
 
-<img src="https://img.shields.io/badge/%E2%99%A1%20SYSTEM-ONLINE-E9D5FF?style=flat-square&labelColor=FCE7F3&color=E9D5FF" alt="System online"/>
+<br/>
 
-### `> hello_world();` ♡
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=17&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shruti+%E2%99%A1;Building+cool+things+with+code;%E2%9C%A8+Learning+something+new+every+day;Turning+ideas+into+reality" alt="Typing animation"/>
 
-**Computer Science Engineering student | Full Stack Development | AI**
+<br/>
 
-*Building useful things, solving problems, and turning ideas into code.*
+<img src="https://img.shields.io/badge/STATUS-ONLINE-ead7f7?style=for-the-badge&labelColor=fce7f3&color=ead7f7" alt="Online status"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-fce7f3?style=for-the-badge&labelColor=ead7f7&color=fce7f3" alt="Location India"/>
+<img src="https://img.shields.io/badge/CURRENTLY-BUILDING%20OCEANIS-d8b4fe?style=for-the-badge&labelColor=fce7f3&color=d8b4fe" alt="Building OCEANIS"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sshrrutiiii-30243A?style=flat-square&logo=github&logoColor=FCE7F3)](https://github.com/sshrrutiiii)
-[![LeetCode](https://img.shields.io/badge/LeetCode-178%2B%20solved-35283A?style=flat-square&logo=leetcode&logoColor=FCE7F3)](https://leetcode.com/u/Sshrruttiiii/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-E9D5FF?style=flat-square&logo=codeforces&logoColor=663B78)](https://codeforces.com/profile/dixitshruti0609)
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sshrrutiiii-ead7f7?style=flat-square&logo=github&logoColor=663B78)](https://github.com/sshrrutiiii)
+[![LeetCode](https://img.shields.io/badge/LeetCode-180%2B%20Solved-fce7f3?style=flat-square&logo=leetcode&logoColor=663B78)](https://leetcode.com/u/Sshrruttiiii/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-ead7f7?style=flat-square&logo=codeforces&logoColor=663B78)](https://codeforces.com/profile/dixitshruti0609)
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+<h2 align="center">୨୧ &nbsp; ABOUT ME &nbsp; ୨୧</h2>
 
 <table>
 <tr>
-<td align="center" bgcolor="#FCE7F3">
+<td width="60%" valign="top">
 
-**♡ ABOUT.EXE ♡**
+```text
+╭─────── MY PROFILE ───────────╮
+│                              │
+│  NAME    : Shruti Dixit      │
+│  ROLE    : CSE Student       │
+│  FOCUS   : Full Stack + AI   │
+│  INTEREST: Coding & Building │
+│  STATUS  : Always Learning   │
+│                              │
+╰──────────────────────────────╯
+```
+
+- 🎀 Exploring **Full Stack Development and AI**
+- 💻 Building practical projects with modern technologies
+- 🧩 Practising Data Structures and Algorithms
+- 🌐 Contributing to open source
+- 🚀 Currently working on **OCEANIS**
+- ✨ Always curious about new technologies
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="40%" align="center" valign="middle">
 
-Hi! I'm **Shruti Dixit**, a Computer Science Engineering student interested in building full-stack applications and exploring AI-powered solutions.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding animation"/>
 
-- 💻 Interested in **Full Stack Development and AI**
-- ☕ Working with **Java, Spring Boot, Python, and React**
-- 🧩 Practising problem-solving through LeetCode and Codeforces
-- 🌐 Building projects and contributing to open source
-- 🎀 Always learning, experimenting, and improving one commit at a time
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CREATIVE-100%25-fce7f3?style=flat-square" alt="Creative"/>
+<br/>
+<img src="https://img.shields.io/badge/CURIOSITY-ALWAYS-ead7f7?style=flat-square" alt="Curiosity"/>
+<br/>
+<img src="https://img.shields.io/badge/DEBUGGING-IN%20PROGRESS-d8b4fe?style=flat-square" alt="Debugging"/>
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-## `01 // TECH STACK`
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+<h2 align="center">୨୧ &nbsp; MY TECH STACK &nbsp; ୨୧</h2>
 
 <div align="center">
 
 **LANGUAGES**
 
-![Java](https://img.shields.io/badge/Java-E9D5FF?style=for-the-badge&logo=openjdk&logoColor=663B78)
-![Python](https://img.shields.io/badge/Python-FCE7F3?style=for-the-badge&logo=python&logoColor=805A91)
-![JavaScript](https://img.shields.io/badge/JavaScript-E9D5FF?style=for-the-badge&logo=javascript&logoColor=663B78)
-![SQL](https://img.shields.io/badge/SQL-FCE7F3?style=for-the-badge&logo=postgresql&logoColor=805A91)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Java, Python, JavaScript, HTML and CSS"/>
 
-**FRONTEND**
+**FRONTEND & BACKEND**
 
-![React](https://img.shields.io/badge/React-E9D5FF?style=for-the-badge&logo=react&logoColor=663B78)
-![HTML5](https://img.shields.io/badge/HTML5-FCE7F3?style=for-the-badge&logo=html5&logoColor=805A91)
-![CSS3](https://img.shields.io/badge/CSS3-E9D5FF?style=for-the-badge&logo=css3&logoColor=663B78)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi&theme=light" alt="React, Node.js, Express, Spring Boot and FastAPI"/>
 
-**BACKEND & DATABASES**
+**DATABASES & TOOLS**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FCE7F3?style=for-the-badge&logo=springboot&logoColor=805A91)
-![Node.js](https://img.shields.io/badge/Node.js-E9D5FF?style=for-the-badge&logo=nodedotjs&logoColor=663B78)
-![Express.js](https://img.shields.io/badge/Express.js-FCE7F3?style=for-the-badge&logo=express&logoColor=805A91)
-![MySQL](https://img.shields.io/badge/MySQL-E9D5FF?style=for-the-badge&logo=mysql&logoColor=663B78)
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,vercel&theme=light" alt="MySQL, Git, GitHub, VS Code and Vercel"/>
 
-**TOOLS & CONCEPTS**
+**EXPLORING**
 
-![Git](https://img.shields.io/badge/Git-FCE7F3?style=for-the-badge&logo=git&logoColor=805A91)
-![GitHub](https://img.shields.io/badge/GitHub-E9D5FF?style=for-the-badge&logo=github&logoColor=663B78)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FCE7F3?style=for-the-badge&logo=fastapi&logoColor=805A91)
-![Three.js](https://img.shields.io/badge/Three.js-E9D5FF?style=for-the-badge&logo=threedotjs&logoColor=663B78)
+<img src="https://skillicons.dev/icons?i=threejs,docker&theme=light" alt="Three.js and Docker"/>
 
 </div>
 
-## `02 // PROJECTS/`
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+<h2 align="center">୨୧ &nbsp; MY PROJECTS &nbsp; ୨୧</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 OCEANIS
+<h3 align="center">🌊 OCEANIS</h3>
 
-**AI-powered 3D Global Maritime Shipping Network Visualization**
+<div align="center">
 
-A maritime visualization project focused on exploring global shipping networks through an interactive 3D experience.
+<img src="https://img.shields.io/badge/PROJECT-01-e9d5ff?style=for-the-badge" alt="Project 01"/>
 
-**Tech stack**
+</div>
 
-`Java` `Spring Boot` `React` `Three.js` `MySQL`
+An interactive 3D global maritime shipping network visualization focused on ports, voyages, routes, and maritime data.
 
-[![View Repository](https://img.shields.io/badge/OPEN_PROJECT-E9D5FF?style=flat-square&logo=github&logoColor=663B78)](https://github.com/sshrrutiiii/OCEANIS)
+**Technologies**
+- Java and Spring Boot
+- React.js and JavaScript
+- MySQL
+- Three.js and 3D visualization
+
+<div align="center">
+
+[**View Repository ↗**](https://github.com/sshrrutiiii/OCEANIS)
+
+[**Live Website ↗**](https://oceanis-maritime.vercel.app/)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚘 Driver Monitoring System
+<h3 align="center">🚗 Driver Monitoring System</h3>
 
-A real-time driver monitoring project designed to detect drowsiness and distraction using computer vision, with a web dashboard for monitoring.
+<div align="center">
 
-**Tech stack**
+<img src="https://img.shields.io/badge/PROJECT-02-fce7f3?style=for-the-badge" alt="Project 02"/>
 
-`Python` `FastAPI` `OpenCV` `MediaPipe` `React` `WebSockets`
+</div>
 
-[![Explore GitHub](https://img.shields.io/badge/EXPLORE_GITHUB-FCE7F3?style=flat-square&logo=github&logoColor=805A91)](https://github.com/sshrrutiiii)
+A real-time driver monitoring system designed to detect drowsiness and distraction and provide alerts through a web dashboard.
+
+**Technologies**
+- Python and OpenCV
+- MediaPipe
+- FastAPI and WebSockets
+- React.js
+
+<div align="center">
+
+[**Explore My GitHub ↗**](https://github.com/sshrrutiiii)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-## `03 // CODING.LOG`
+---
+
+<!-- ═══════════════ CODING STATS ═══════════════ -->
+
+<h2 align="center">୨୧ &nbsp; CODING STATS &nbsp; ୨୧</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+<a href="https://leetcode.com/u/Sshrruttiiii/">
+<img src="https://img.shields.io/badge/LeetCode-180%2B%20Problems%20Solved-fce7f3?style=for-the-badge&logo=leetcode&logoColor=663B78" alt="LeetCode problems solved"/>
+</a>
 
-### `180+`
+<a href="https://leetcode.com/u/Sshrruttiiii/">
+<img src="https://img.shields.io/badge/LeetCode-100%20Days%20Badge-ead7f7?style=for-the-badge&logo=leetcode&logoColor=663B78" alt="LeetCode 100 Days badge"/>
+</a>
 
-**LeetCode Problems**
+<a href="https://codeforces.com/profile/dixitshruti0609">
+<img src="https://img.shields.io/badge/Codeforces-My%20Profile-d8b4fe?style=for-the-badge&logo=codeforces&logoColor=663B78" alt="Codeforces profile"/>
+</a>
 
-[Visit Profile ↗](https://leetcode.com/u/Sshrruttiiii/)
+<br/><br/>
 
-</td>
-<td align="center" width="33%">
+<a href="https://github.com/sshrrutiiii?tab=overview">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-fce7f3?style=for-the-badge&logo=github&logoColor=663B78" alt="Open source contributor"/>
+</a>
 
-### `100 DAYS`
+<br/><br/>
 
-**LeetCode Badge**
+<img src="https://github-readme-stats.vercel.app/api?username=sshrrutiiii&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=9d5c91&icon_color=c084fc&text_color=663B78&ring_color=c084fc" height="165" alt="GitHub statistics"/>
 
-[View Profile ↗](https://leetcode.com/u/Sshrruttiiii/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshrrutiiii&layout=compact&hide_border=true&bg_color=fff7fb&title_color=9d5c91&text_color=663B78" height="165" alt="Most used languages"/>
 
-</td>
-<td align="center" width="33%">
+<br/><br/>
 
-### `ACTIVE`
-
-**Codeforces Profile**
-
-[Visit Profile ↗](https://codeforces.com/profile/dixitshruti0609)
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sshrrutiiii&hide_border=true&background=fff7fb&ring=c084fc&fire=f472b6&currStreakLabel=9d5c91&sideLabels=663B78&dates=9d5c91" width="70%" alt="GitHub contribution streak"/>
 
 </div>
 
-## `04 // OPEN_SOURCE.exe`
+---
+
+<!-- ═══════════════ TERMINAL ═══════════════ -->
+
+<h2 align="center">୨୧ &nbsp; TERMINAL &nbsp; ୨୧</h2>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-E9D5FF?style=for-the-badge&logo=github&logoColor=663B78" alt="Open-source contributor"/>
-
-I value collaborative development, learning from other developers, and contributing to open-source projects.
-
-[![Explore Contributions](https://img.shields.io/badge/VIEW_MY_CONTRIBUTIONS-FCE7F3?style=flat-square&logo=github&logoColor=805A91)](https://github.com/sshrrutiiii?tab=overview&from=2026-01-01&to=2026-12-31)
-
-</div>
-
-## `05 // CURRENTLY.exe`
 
 ```text
-╭────────────────────────────────────╮
-│  SHRUTI'S DEV TERMINAL          ♡  │
-├────────────────────────────────────┤
-│  > learning      : always          │
-│  > building      : OCEANIS          │
-│  > exploring     : Full Stack + AI │
-│  > solving       : coding problems │
-│  > status        : open to learn   │
-╰────────────────────────────────────╯
+╭──────────────────────────────────────╮
+│  SHRUTI@GITHUB: ~                    │
+├──────────────────────────────────────┤
+│                                      │
+│  > whoami                            │
+│  Shruti Dixit — CSE Student          │
+│                                      │
+│  > current_project                   │
+│  OCEANIS                             │
+│                                      │
+│  > interests                         │
+│  Full Stack | AI | DSA | Open Source │
+│                                      │
+│  > next_goal                         │
+│  Build. Learn. Improve. Repeat.      │
+│                                      │
+│  > exit                              │
+│  Thanks for visiting! ♡              │
+│                                      │
+╰──────────────────────────────────────╯
 ```
 
-## `06 // CONNECT.WITH.ME`
+</div>
+
+---
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+<h2 align="center">୨୧ &nbsp; LET'S CONNECT &nbsp; ୨୧</h2>
 
 <div align="center">
 
-Have an interesting project, an open-source opportunity, or an idea worth building? Let's connect!
+If you enjoy building cool projects, solving problems, or collaborating on open source, let's connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-30243A?style=for-the-badge&logo=github&logoColor=FCE7F3)](https://github.com/sshrrutiiii)
-[![LeetCode](https://img.shields.io/badge/LeetCode-E9D5FF?style=for-the-badge&logo=leetcode&logoColor=663B78)](https://leetcode.com/u/Sshrruttiiii/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-FCE7F3?style=for-the-badge&logo=codeforces&logoColor=805A91)](https://codeforces.com/profile/dixitshruti0609)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,50:E9D5FF,100:FDF2F8&height=75&section=footer&text=THANKS%20FOR%20VISITING%20%E2%99%A1&fontSize=18&fontColor=663B78" width="100%" alt="Thanks for visiting"/>
+[![GitHub](https://img.shields.io/badge/GitHub-663B78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshrrutiiii)
 
-<sub>made with ♡, curiosity, and lots of code</sub>
+[![LeetCode](https://img.shields.io/badge/LeetCode-C084FC?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sshrruttiiii/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-9D5C91?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dixitshruti0609)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FCE7F3,50:E9D5FF,100:FDF2F8&height=90&section=footer&text=thanks%20for%20visiting%20%E2%99%A1&fontSize=22&fontColor=663B78" width="100%" alt="Thanks for visiting"/>
+
+<sub>made with ♡, curiosity, and too many open tabs</sub>
 
 </div>
